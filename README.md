@@ -8,8 +8,8 @@ A feature map is basically the result of applying a Convulational Filter on an i
   <tr>
     <td>Convolutional Filter</td>
      <td>Feature Map at 1st layer</td>
-     <td>Feature Map at 24th layer</td>
-     <td>Feature Map at 48th layer</td>
+     <td>Feature Map at 2th layer</td>
+     <td>Feature Map at 3th layer</td>
   </tr>
   <tr>
     <td valign="top"><img src="/filter0_1.png",width="50%"></td>
